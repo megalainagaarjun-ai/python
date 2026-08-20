@@ -1,0 +1,10 @@
+print("===== Student Management System =====")
+
+name = input("manimeghalai:")
+age = int(input("21: "))
+course = input("CSE: ")
+
+print("\n===== Student Details =====")
+print("Name   :",manimeghalai)
+print("Age    :", 21)
+print("Course :", CSE)
